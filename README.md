@@ -76,7 +76,9 @@ After capturing, the generated sketch will be saved in the same directory as:
 sketch_image.jpg
 ```
 
-## 👩‍💻 About Me
+## 👩‍💻 Author
 
-I’m Salma, a Computer Science Engineering student.
-I love building interactive projects!
+**Salma Shaik**  
+Computer Science and Engineering Student  
+
+GitHub: https://github.com/salmashaik45
