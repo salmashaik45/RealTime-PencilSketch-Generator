@@ -79,6 +79,7 @@ sketch_image.jpg
 ## 👩‍💻 Author
 
 **Salma Shaik**  
+
 Computer Science and Engineering Student  
 
 GitHub: https://github.com/salmashaik45
