@@ -76,10 +76,11 @@ After capturing, the generated sketch will be saved in the same directory as:
 sketch_image.jpg
 ```
 
+---
+
 ## 👩‍💻 Author
 
 **Salma Shaik**  
-
 Computer Science and Engineering Student  
 
-GitHub: https://github.com/salmashaik45
+🔗 GitHub: https://github.com/salmashaik45
